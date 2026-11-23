@@ -1,0 +1,22 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Build outputs (attach packaged builds to GitHub Releases instead)
+*.plugin
+*.zip
+
+# Local work
+*-backup-*/
+*-workspace/
+scratch/
+tmp/
+
+# Secrets (the skills never store tokens, but just in case)
+.env
+.env.*
+*.pem
+*token*

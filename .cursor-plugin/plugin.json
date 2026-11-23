@@ -1,0 +1,23 @@
+{
+  "name": "design-spec",
+  "displayName": "Design Spec",
+  "version": "2.8.0",
+  "description": "Design spec skills for engineering handoff: plan a spec set, author specs, preview them as an interactive check, and audit them for drift and consistency. All skills install together.",
+  "author": {
+    "name": "Launch by NTT DATA"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "design",
+    "specs",
+    "design-system",
+    "handoff",
+    "figma",
+    "audit",
+    "spec-driven-design",
+    "design-tokens",
+    "accessibility",
+    "generative-ui"
+  ],
+  "skills": "./skills/"
+}
